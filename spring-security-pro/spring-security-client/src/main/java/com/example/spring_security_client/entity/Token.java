@@ -8,6 +8,7 @@ import java.util.Date;
 
 @Entity
 @Data
+//entity class
 public class Token {
     private static final int time=5;
     @Id
